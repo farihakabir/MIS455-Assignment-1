@@ -1,0 +1,38 @@
+.Beauty {
+    align-content: center;
+    color:black;
+    display: flex;
+    background-color:#eee;
+    text-decoration:none;
+    border-radius: 0pxs;
+    height: 30%;
+    
+}
+.icon-image{
+    height: 60px;
+    width: 60px;
+}
+/* p{
+    font-size: 23px;
+} */
+.row-image{
+    height: 500px;
+    width: 360px;
+}
+.text-desc{
+    font-size: 20px;
+    padding-right: 10px;
+    padding-left: 5px;
+    text-align: justify;
+}
+.hotel-desc{
+    font-size: 14px;
+    padding-right: 15px;
+    text-align: justify;
+}
+
+.box{
+    border: 1px solid #aaa;
+    padding: 5px;
+    margin-right: 3px;
+}
